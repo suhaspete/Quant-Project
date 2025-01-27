@@ -103,10 +103,8 @@ Linear regression is a foundational statistical method for understanding relatio
 
 
 Where:
-
-: Intercept (value of Y when X = 0).
-
-: Slope (rate of change in Y for a unit change in X).
+- Intercept (value of Y when X = 0).
+- Slope (rate of change in Y for a unit change in X).
 
 This technique is widely used in predictive modeling and provides insights into the strength and nature of relationships between variables.
 ![image](https://github.com/user-attachments/assets/59d623eb-3a79-4d76-9191-740aecc6198b)
@@ -136,10 +134,8 @@ Moving Window Regression is a method to test the stability of these coefficients
 Multiple linear regression extends the simple linear regression model to include multiple independent variables:
 
 Where:
-
-: Independent variables.
-
-: Coefficients representing the effect of each variable on Y.
+- Independent variables.
+- Coefficients representing the effect of each variable on Y.
 
 This method allows for:
 
