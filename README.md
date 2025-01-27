@@ -11,6 +11,8 @@ Variance: The average of the squared differences between each data point and the
 Standard Deviation: The square root of the variance, representing the average distance of each data point from the mean. It is easier to interpret as it is expressed in the same units as the data.
 
 However, both variance and standard deviation treat upward and downward deviations equally, meaning they do not account for directional trends. Additional tools, such as skewness and kurtosis, can provide more nuanced insights into data distribution.
+
+
 ![image](https://github.com/user-attachments/assets/3b862607-1fd0-4ad1-83f7-24cdabfb9cde)
 ![image](https://github.com/user-attachments/assets/6a9ae408-97e6-4416-8968-1b40bad2f6e5)
 ![image](https://github.com/user-attachments/assets/eb3fbcf9-a3ef-4aee-a371-1bd92bc23695)
